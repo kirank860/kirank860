@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirank860
+- 👋 Hi, I’m kirank
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on MNC company
